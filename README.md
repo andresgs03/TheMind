@@ -17,8 +17,6 @@ Se implementó en múltiples archivos para mantener el código limpio y modular:
 * `Partida.h / .cpp`: Motor central del juego. Controla las vidas, niveles, validación de la carta menor global, aplicación de errores y guardado o carga.
 * `main.cpp`: Punto de entrada del programa que gestiona el menú principal.
 
-<img width="674" height="1088" alt="image" src="https://github.com/user-attachments/assets/9b4f9843-f8ad-49a4-a27f-4a2b32140cf3" />
-
 ## Compilación y ejecución
 Se puede ejecutar con un compilador de C++ (como `g++`) y al ejecutar el siguiente comando en la terminal:
 
